@@ -1,4 +1,3 @@
 /node_modules
 **/node_modules
-/react-example/node_modules
 /vue-example/node_modules
