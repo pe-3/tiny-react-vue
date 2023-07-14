@@ -1,16 +1,12 @@
 {
-  "name": "tiny-component",
+  "name": "v2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:vue": "pnpm --filter vue-example run dev",
-    "dev:react": "pnpm --filter react-example start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm run --filter '@tiny-vue/react-example' dev"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@opentiny/react": "workspace:^"
-  }
+  "license": "ISC"
 }
