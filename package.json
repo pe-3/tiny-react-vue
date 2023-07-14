@@ -1,0 +1,16 @@
+{
+  "name": "tiny-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:vue": "npm -C vue-example run serve",
+    "dev:react": "npm -C react-example start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opentiny/react": "workspace:^"
+  }
+}
