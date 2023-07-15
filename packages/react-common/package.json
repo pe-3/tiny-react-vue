@@ -1,5 +1,5 @@
 {
-  "name": "@opentiny/vue",
+  "name": "react-common",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@opentiny/renderless": "workspace:~"
+    "react": "^18.2.0"
   }
 }

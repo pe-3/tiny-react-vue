@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev:vue": "pnpm --filter vue-example run dev",
-    "dev:react": "pnpm --filter react-example start",
+    "dev:react": "pnpm --filter react-example run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
